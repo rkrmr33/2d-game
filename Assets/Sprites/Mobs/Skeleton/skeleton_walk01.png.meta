@@ -1,0 +1,1880 @@
+fileFormatVersion: 2
+guid: 9d8c86bbd1def66449eedbedbd5415c6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skelleton_walk01_0
+    21300002: skelleton_walk01_1
+    21300004: skelleton_walk01_2
+    21300006: skelleton_walk01_3
+    21300008: skelleton_walk01_4
+    21300010: skelleton_walk01_5
+    21300012: skelleton_walk01_6
+    21300014: skelleton_walk01_7
+    21300016: skelleton_walk01_8
+    21300018: skelleton_walk01_9
+    21300020: skelleton_walk01_10
+    21300022: skelleton_walk01_11
+    21300024: skelleton_walk01_12
+    21300026: skelleton_walk01_13
+    21300028: skelleton_walk01_14
+    21300030: skelleton_walk01_15
+    21300032: skelleton_walk01_16
+    21300034: skelleton_walk01_17
+    21300036: skelleton_walk01_18
+    21300038: skelleton_walk01_19
+    21300040: skelleton_walk01_20
+    21300042: skelleton_walk01_21
+    21300044: skelleton_walk01_22
+    21300046: skelleton_walk01_23
+    21300048: skelleton_walk01_24
+    21300050: skelleton_walk01_25
+    21300052: skelleton_walk01_26
+    21300054: skelleton_walk01_27
+    21300056: skelleton_walk01_28
+    21300058: skelleton_walk01_29
+    21300060: skelleton_walk01_30
+    21300062: skelleton_walk01_31
+    21300064: skelleton_walk01_32
+    21300066: skelleton_walk01_33
+    21300068: skelleton_walk01_34
+    21300070: skelleton_walk01_35
+    21300072: skelleton_walk01_36
+    21300074: skelleton_walk01_37
+    21300076: skelleton_walk01_38
+    21300078: skelleton_walk01_39
+    21300080: skelleton_walk01_40
+    21300082: skelleton_walk01_41
+    21300084: skelleton_walk01_42
+    21300086: skelleton_walk01_43
+    21300088: skelleton_walk01_44
+    21300090: skelleton_walk01_45
+    21300092: skelleton_walk01_46
+    21300094: skelleton_walk01_47
+    21300096: skelleton_walk01_48
+    21300098: skelleton_walk01_49
+    21300100: skelleton_walk01_50
+    21300102: skelleton_walk01_51
+    21300104: skelleton_walk01_52
+    21300106: skelleton_walk01_53
+    21300108: skelleton_walk01_54
+    21300110: skelleton_walk01_55
+    21300112: skelleton_walk01_56
+    21300114: skelleton_walk01_57
+    21300116: skelleton_walk01_58
+    21300118: skelleton_walk01_59
+    21300120: skelleton_walk01_60
+    21300122: skelleton_walk01_61
+    21300124: skelleton_walk01_62
+    21300126: skelleton_walk01_63
+    21300128: skelleton_walk01_64
+    21300130: skelleton_walk01_65
+    21300132: skelleton_walk01_66
+    21300134: skelleton_walk01_67
+    21300136: skelleton_walk01_68
+    21300138: skelleton_walk01_69
+    21300140: skelleton_walk01_70
+    21300142: skelleton_walk01_71
+    21300144: skelleton_walk01_72
+    21300146: skelleton_walk01_73
+    21300148: skelleton_walk01_74
+    21300150: skelleton_walk01_75
+    21300152: skelleton_walk01_76
+    21300154: skelleton_walk01_77
+    21300156: skelleton_walk01_78
+    21300158: skelleton_walk01_79
+    21300160: skelleton_walk01_80
+    21300162: skelleton_walk01_81
+    21300164: skelleton_walk01_82
+    21300166: skelleton_walk01_83
+    21300168: skelleton_walk01_84
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skelleton_walk01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978458b49e1fd9b4cb22aaa9266484ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cd9c2008e66944ca0879ebd53e3f34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cb5b0d44e028d459aee6c0bbac35a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d0aca5fd24b934b8ec789222c64f90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a607f50903f6b6a48bf9f2de26130d35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_5
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c1e4ff8b0a8c47884003a1b8b64e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_6
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f964240a49d3040b76b589f1d47039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_7
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d010f85b7468ab54d892e850e19f3388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_8
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50c7fc19cd63bb4f8ee5984bcbdfabd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_9
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2809ad7ddebc4aa7c638a564b55ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_10
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387356a0831f88943a657e1feb738bf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_11
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 3304
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d3cd240cfd5049a6d254605a66185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9cad145e5fbbe4e9d26dd9fb504ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b40e594877d2cf428a6e3e253f2f77f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e43751b397fd640a733046880ec471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_15
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f35da4f128c6ec4fbb3259851d67527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7c74bcbf8c9424288265f933627983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_17
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483535432ab6d9b4fa4c3088f632233f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_18
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc058837fc5530438679f589bda94c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_19
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0826d9037a6e428b5d9732f87642a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_20
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b206c99d59cb5e8488b7b7f05d29104c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_21
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbceee0c660e6864ca47c8f098196443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_22
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ef53db2e48ff842aa95ac0749c49e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_23
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbca9e64d3f85147aa204388e3636ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8852ec3b094361488caa08be070742e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb1915df0da4044daa3e42e04e5110f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4891dadc15625744a8f9c17020c4e7a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_27
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e77fd90ffdbf64089ac1d444857a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_28
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6e369e603bdf44bfe499f0ab965a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_29
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0ef5dc0f6cb8a4db8ac897cd19bd09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_30
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fd32cb386bf3f4ebafdedbbe2b55e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_31
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d0ac7bc2af7444b8a96d192fd9f20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_32
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eddfd07e0004d41840c32b225b3416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_33
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d75699286def1439ba28a9a6db478e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_34
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d98a239226294697bbef9ab452904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_35
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bde437a4b7bea48a3a53b266c20884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00347f1c056a54947be49956757091e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cb87497c935c14f973b9d041bd58fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_38
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd89e6d61036d42b865552f90cb710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_39
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef81c102c34eb504d9d3838cdddf41cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_40
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ecc6a1ddb9f1842b0e8fd348913078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_41
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95240fc6c93d75944a046fe6b966a073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_42
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d531d1daf9c5af94f899bf3e8f5263a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_43
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416bb29e7dd00d744ad6cd189a1e08ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_44
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1dfcffb55f6344fa56964693313802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_45
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d380640083e53418f7b0ad5d5471ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_46
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b0229450e48b46a9939d0f1174369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_47
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c4d3c155cc6234cb7062db23ce2267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f62291bafa38540aff92fdf93df81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14bcd262a39abc40933039c28f4b2a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_50
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1d08592e43ddb4faa1e3e4a44ad19b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_51
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aeeec60dd93953439d5538315006cfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_52
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04da7c6d534564fb1fffe185490a82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_53
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac199b7f2a75f40ab3faeffe1cb83a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_54
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd103912e546d95429204e06101eceea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_55
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08372dc4175efb40946197535913755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_56
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5746a298b821d2e418d6e58f619d6b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_57
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b4850924ba28441892535debdf649e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_58
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82703192a940cc842bc8c924756ea1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_59
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eeb23fdaab28f478571fe0f3dfc025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363528fe49da3f439fac6b8dc6a102b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_61
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13317f49686cc9040aaf40bd1a1cc7a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1487e70cab14cf468f366bf6a22478b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_63
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151aece2b5063af439db495fad6752ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_64
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8363281caaefbbd468d51cf55f1a1b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_65
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c3f3e442cb1e447a82de512b6cdaf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_66
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dbb7353745c8d4e8f46b513ee58c36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_67
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f822b44e926eab04ebbf9af56f740e4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_68
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28326e81bff453d4fa5353589021a8d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_69
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5071eb88e51c3d4781dc47f3cfe4d1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_70
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff05d81eceae0458f3a36704938973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_71
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84315ecbfbdcfd248b6ad2672aa36b46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6fc072610bcc44bad2db45e053eb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a81d7101170849b530c9354a1376c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_74
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d58a94e34d9b284fb746feeb7686546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_75
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b199dd6b7cb1e1946864079a92edfc7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_76
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc21b7f53476c40910dc39e9946f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_77
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1085c9efe418c974298058713b0efb3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_78
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfbf86e437f1f449a0b433c819c4c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_79
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ccc9fac4c163a45a887fce3d492556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_80
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac6e5cea22183a4cbe95b91ae2f1a0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_81
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5509b023b03147a4e5f0cdbd3ca90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_82
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f51b6056b4654ba5e29b1f4f226ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_83
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1935f1ad1f45eb46aa354551e75c1dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skelleton_walk01_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeffb09422c10a4a9f5264ad3bec53f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b0cf67234aa08143ac113d361f05864
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

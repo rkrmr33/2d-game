@@ -1,0 +1,1649 @@
+fileFormatVersion: 2
+guid: 9b08f48013751624b9154f34ef85bb6a
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skeleton_death01_0
+    21300002: skeleton_death01_1
+    21300004: skeleton_death01_2
+    21300006: skeleton_death01_3
+    21300008: skeleton_death01_4
+    21300010: skeleton_death01_5
+    21300012: skeleton_death01_6
+    21300014: skeleton_death01_7
+    21300016: skeleton_death01_8
+    21300018: skeleton_death01_9
+    21300020: skeleton_death01_10
+    21300022: skeleton_death01_11
+    21300024: skeleton_death01_12
+    21300026: skeleton_death01_13
+    21300028: skeleton_death01_14
+    21300030: skeleton_death01_15
+    21300032: skeleton_death01_16
+    21300034: skeleton_death01_17
+    21300036: skeleton_death01_18
+    21300038: skeleton_death01_19
+    21300040: skeleton_death01_20
+    21300042: skeleton_death01_21
+    21300044: skeleton_death01_22
+    21300046: skeleton_death01_23
+    21300048: skeleton_death01_24
+    21300050: skeleton_death01_25
+    21300052: skeleton_death01_26
+    21300054: skeleton_death01_27
+    21300056: skeleton_death01_28
+    21300058: skeleton_death01_29
+    21300060: skeleton_death01_30
+    21300062: skeleton_death01_31
+    21300064: skeleton_death01_32
+    21300066: skeleton_death01_33
+    21300068: skeleton_death01_34
+    21300070: skeleton_death01_35
+    21300072: skeleton_death01_36
+    21300074: skeleton_death01_37
+    21300076: skeleton_death01_38
+    21300078: skeleton_death01_39
+    21300080: skeleton_death01_40
+    21300082: skeleton_death01_41
+    21300084: skeleton_death01_42
+    21300086: skeleton_death01_43
+    21300088: skeleton_death01_44
+    21300090: skeleton_death01_45
+    21300092: skeleton_death01_46
+    21300094: skeleton_death01_47
+    21300096: skeleton_death01_48
+    21300098: skeleton_death01_49
+    21300100: skeleton_death01_50
+    21300102: skeleton_death01_51
+    21300104: skeleton_death01_52
+    21300106: skeleton_death01_53
+    21300108: skeleton_death01_54
+    21300110: skeleton_death01_55
+    21300112: skeleton_death01_56
+    21300114: skeleton_death01_57
+    21300116: skeleton_death01_58
+    21300118: skeleton_death01_59
+    21300120: skeleton_death01_60
+    21300122: skeleton_death01_61
+    21300124: skeleton_death01_62
+    21300126: skeleton_death01_63
+    21300128: skeleton_death01_64
+    21300130: skeleton_death01_65
+    21300132: skeleton_death01_66
+    21300134: skeleton_death01_67
+    21300136: skeleton_death01_68
+    21300138: skeleton_death01_69
+    21300140: skeleton_death01_70
+    21300142: skeleton_death01_71
+    21300144: skeleton_death01_72
+    21300146: skeleton_death01_73
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 108
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton_death01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c3f51fb8d002d4b83281948afb3807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_1
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e124c27c2f26948a6af053a96eb403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff9c36a7b0764c45877b4f167cbc48f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac756ec47af7de54aa01b906971608af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_4
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a3733d3a049b74d8d98072df9541e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_5
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961bb76966340d64aa4a3a12ac67b759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_6
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667b0c92ea1f1d044b7b09fc5f400dd7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_7
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca9c8ca6c1989f4886d5a50858f2369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_8
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfe8dcaf73562b46a78b197d0187153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_9
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1d96b66bd929546973dee95e19325b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_10
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed05882077b7854ba465e8cecffc92b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_11
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 2832
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba69665921ebb641975cb3449a8bf20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf523529e2fc9c5409be59a130b416a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680e613b5c99332448e892f64d2c858b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cec45b4d1446642ba895483126bd89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_15
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1e92803e87dbf41ae8e87f4ea51ad6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_16
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033c530c1f94c754e8e58ef5b02a96c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_17
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d87e14787673a47a3619e9033d96e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_18
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004532399339b634bbcfc972d7a1fdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_19
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028deffeb39c26c47ac4752b31c0706b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_20
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae0f12d388369a4180d16c41e4dc1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_21
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8b2af83087bd7479d0b37e69f81f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_22
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f489a3cbb4866a4997729b2af00aa4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_23
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 2360
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ad5b3143a931946b0e42ab9ad9519d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d226ae6815bc4cab4a71f3068ab7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ae9d4022c586c428c0e6e0e4232c76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_26
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233a521ad34d6374e99898bf90aa2b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_27
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffa35b99f9091449a9762faa43fffb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_28
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315b045b5efd32d4e8964dc19339b622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_29
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd75751903d1fac49a46f7abd8620993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_30
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c59c003c385e0b46a1bff8c1c20e61b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_31
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f47ddbfc166804b981bc085e4deca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_32
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f35842af9290f42ae8f6d5c89d55d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_33
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6a0ff40711536439e617101a0a44bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_34
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb38be0485bfcc40b1fe8ab0438ffcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_35
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1888
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02621a0788beb54281bd1331d1c4e8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9be900afcf5fb84690da3c7146ad04f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03881b6d4f323647bc25e9ca9beec1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_38
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675077be7c64d2c4a9a19f8989a91b55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_39
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75296dbf12aadaf44b42e1fa22d66e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_40
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf1d619acc8f04ba81fee3ee18ab8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_41
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd35415ef487f4fba80b82b581b3c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_42
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7473c38a951e8d746a465c1761d9a7b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_43
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca21f2e9657d614391cb590539fcbd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_44
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9a673f7c233441acbcd269f69a3d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_45
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e154f755bd011494d804ef68fcedb942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_46
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02691977fd76fbd47a81aa6607cfa1d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_47
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1416
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63d6fbbc050a1949bf2450e1cbf897e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff6bd36fd7e8664f82c393a898ed2ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_49
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1542f35eee9c47844a939d9ca48ea8ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_50
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a075d138fba37924b82d5fbe69af3ae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_51
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ee4c63eab8cf24580668561aaaeaa7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_52
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebab17bf5a594cf4093dfe2681ba463d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_53
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594c5d4e5426d94aa71a09d264daf2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_54
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9550cd3a43cc134195382d840366fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_55
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3ef6256d9e1214a9464e3585bba644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_56
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e3f8128e1f64e4f9f6968ff0ee4617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_57
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d40dee21fa9f24182eb2567e5e4cb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_58
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef0c63b6a0dc6b41a9ab5e9d37340ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_59
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 944
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151ee711c443884da3fb2dcd6c553fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa587b9f05abfa4cbf16e7e75ceb158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_61
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2285ece37e06e424b89d048aec26d57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d73bcd892ce14448b5ff8ada35e2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_63
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a7d9091fe768148b9b40395b81801f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_64
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7301907184c71e441a5d749a16fdd0c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_65
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce937f59e6fcb7d4bb157d6349313561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_66
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4aa1da614866846b18972d5696f1ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_67
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6af502861955a24a96988e3defec015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_68
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b343ff980fa74db6f654549320564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_69
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463d3ff3347d2a44a18ac31ffa6adc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_70
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e05d48e78343743b64f6655b5a4787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_71
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 472
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c881d2811c0742e48be0a019f04ff5f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162615566502a654599aec46f4da640b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skeleton_death01_73
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 544
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60e80d0777f88644968c034146492a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dff917b9fcc38e5429a3907bb1e51cd3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
